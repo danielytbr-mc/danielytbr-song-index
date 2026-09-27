@@ -21,14 +21,14 @@
         "name": "Basetune",
         "artist": "DanielYTbr",
         "startOffset": 0,
-        "url": "http://127.0.0.1:8000/0000.mp3",
+        "url": "./0000.mp3",
         "songs": [1613415]
       },
       "0001": {
         "name": "Shiawase (VIP)",
         "artist": "Dion Timmer",
         "startOffset": 0,
-        "url": "http://127.0.0.1:8000/0001.mp3",
+        "url": "./0001.mp3",
         "songs": [1]
       }
     }

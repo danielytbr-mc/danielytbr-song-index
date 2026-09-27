@@ -1,0 +1,36 @@
+{
+  "manifest": 1,
+  "name": "DanielYTbr's song index",
+  "id": "danielytbr-song-index",
+  "description": "js a song index",
+  "lastUpdate": -1,
+  "links": {},
+  "features": {
+    "submit": {
+      "supportedSongTypes": ["hosted"],
+      "preSubmitMessage": "i didnt handle ts yet",
+      "requestParams": {
+        "url": "about:blank",
+        "params": true
+      }
+    }
+  },
+  "nongs": {
+    "hosted": {
+      "0000": {
+        "name": "Basetune",
+        "artist": "DanielYTbr",
+        "startOffset": 0,
+        "url": "http://127.0.0.1:8000/0000.mp3",
+        "songs": [1613415]
+      },
+      "0001": {
+        "name": "Shiawase (VIP)",
+        "artist": "Dion Timmer",
+        "startOffset": 0,
+        "url": "http://127.0.0.1:8000/0001.mp3",
+        "songs": [1]
+      }
+    }
+  }
+}
